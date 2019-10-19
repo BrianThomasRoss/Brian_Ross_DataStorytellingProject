@@ -1,0 +1,626 @@
+Rank,Name,Minimum Net Worth,Average,Maximum Net Worth,Chamber
+1,Michael McCaul (R-Texas),"$306,437,919","$500,624,461","$694,811,003",House
+2,Darrell Issa (R-Calif),"$215,550,040","$480,325,019","$745,099,999",House
+4,Mark Warner (D-Va),"$86,024,219","$228,129,609","$370,235,000",Senate
+5,Jared Polis (D-Colo),"$83,065,361","$214,946,679","$346,827,997",House
+6,Herb Kohl (D-Wis),"$78,063,023","$171,257,008","$264,450,994",Senate
+9,John K. Delaney (D-Md),"$46,786,139","$138,850,569","$230,914,999",House
+11,Jay Rockefeller (D-WVa),"$63,082,021","$102,706,012","$142,330,003",Senate
+12,Richard Blumenthal (D-Conn),"$79,556,298","$100,115,673","$120,675,049",Senate
+13,Vernon Buchanan (R-Fla),"-$63,427,724","$95,327,629","$254,082,982",House
+14,Nancy Pelosi (D-Calif),"$7,526,073","$93,987,532","$180,448,991",House
+15,Scott Peters (D-Calif),"-$31,969,893","$90,349,050","$212,667,994",House
+16,Frank R. Lautenberg (D-NJ),"$57,699,193","$87,557,109","$117,415,025",Senate
+17,Dianne Feinstein (D-Calif),"$42,777,230","$70,725,124","$98,673,018",Senate
+18,Diane Black (R-Tenn),"$15,793,074","$64,744,035","$113,694,996",House
+19,Chris Collins (R-NY),"$13,308,039","$60,351,517","$107,394,996",House
+20,Alan Grayson (D-Fla),"$24,137,081","$54,823,540","$85,510,000",House
+21,James E. Risch (R-Idaho),"$19,020,059","$53,442,028","$87,863,997",Senate
+22,Suzan DelBene (D-Wash),"$23,223,064","$53,234,032","$83,245,000",House
+23,Rodney Frelinghuysen (R-NJ),"$21,655,186","$47,990,593","$74,326,000",House
+24,Rick Berg (R-ND),"$23,173,481","$46,438,414","$69,703,348",House
+25,Bob Corker (R-Tenn),"$8,125,020","$45,289,509","$82,453,998",Senate
+26,Gary Miller (R-Calif),"$17,413,059","$44,517,529","$71,622,000",House
+27,Jim Renacci (R-Ohio),"$33,472,883","$39,382,836","$45,292,790",House
+29,Ron Wyden (D-Ore),"$14,965,048","$38,370,525","$61,776,002",Senate
+30,Nita M. Lowey (D-NY),"$14,337,034","$36,633,517","$58,930,000",House
+31,Joe Kennedy III (D-Mass),"$15,605,250","$35,677,625","$55,750,000",House
+32,Chellie Pingree (D-Maine),"$28,997,063","$34,844,041","$40,691,020",House
+33,Trent Franks (R-Ariz),"$11,600,005","$33,925,002","$56,250,000",House
+34,Robert Pittenger (R-NC),"$18,615,005","$33,583,501","$48,551,997",House
+35,Scott Rigell (R-Va),"$6,745,074","$29,494,036","$52,242,998",House
+36,Carolyn B. Maloney (D-NY),"$7,798,020","$28,622,007","$49,445,995",House
+37,Tom Petri (R-Wis),"$9,526,024","$27,470,511","$45,414,998",House
+38,Mitch McConnell (R-Ky),"$9,946,049","$27,306,524","$44,667,000",Senate
+39,Richard Hanna (R-NY),"$13,683,134","$26,579,067","$39,475,000",House
+40,Blake Farenthold (R-Texas),"$9,559,098","$24,047,548","$38,535,999",House
+41,Ron Johnson (R-Wis),"$8,767,016","$23,755,008","$38,743,000",Senate
+42,Kenny Marchant (R-Texas),"$6,717,250","$23,304,732","$39,892,215",House
+43,John Hoeven (R-ND),"-$11,591,936","$22,073,031","$55,737,999",Senate
+44,Claire McCaskill (D-Mo),"$15,755,207","$21,837,606","$27,920,006",Senate
+45,John Campbell (R-Calif),"$8,929,098","$21,597,549","$34,266,000",House
+46,Nan Hayworth (R-NY),"$12,237,267","$20,817,633","$29,398,000",House
+47,Steve Pearce (R-NM),"$7,483,015","$20,364,007","$33,245,000",House
+48,John A. Yarmuth (D-Ky),"$5,316,010","$20,240,503","$35,164,996",House
+49,F. James Sensenbrenner Jr (R-Wis),"$16,792,760","$19,574,234","$22,355,708",House
+50,Mike Kelly (R-Pa),"$2,733,032","$19,266,515","$35,799,999",House
+51,Brad Schneider (D-Ill),"$9,318,440","$18,734,720","$28,151,000",House
+52,Tom Price (R-Ga),"$7,098,027","$18,422,013","$29,746,000",House
+53,Kay R. Hagan (D-NC),"$2,939,592","$18,124,285","$33,308,978",Senate
+54,Bill Foster (D-Ill),"$6,766,022","$17,891,011","$29,016,000",House
+56,Tom Harkin (D-Iowa),"$10,006,120","$16,012,060","$22,018,001",Senate
+57,Angus King (I-Maine),"$5,686,158","$15,990,577","$26,294,997",Senate
+58,Rosa L. DeLauro (D-Conn),"$5,381,021","$15,934,508","$26,487,996",House
+59,Fred Upton (R-Mich),"$7,391,218","$15,878,109","$24,365,000",House
+60,Sean Patrick Maloney (D-NY),"$5,100,007","$15,717,501","$26,334,995",House
+61,Lloyd Doggett (D-Texas),"$8,651,090","$15,533,044","$22,414,999",House
+62,Shelley Berkley (D-Nev),"$7,891,261","$15,415,229","$22,939,197",House
+63,Cynthia Marie Lummis (R-Wyo),"$5,951,023","$15,397,011","$24,842,999",House
+64,Rob Portman (R-Ohio),"$6,465,093","$14,311,046","$22,156,999",Senate
+66,Olympia Snowe (R-Maine),"$9,562,057","$14,173,029","$18,784,002",Senate
+67,Steven Daines (R-Mont),"$4,933,441","$13,585,935","$22,238,430",House
+68,Roger Williams (R-Texas),"-$4,170,973","$13,295,011","$30,760,995",House
+69,Randy Neugebauer (R-Texas),"$6,560,080","$12,845,039","$19,129,998",House
+70,Lamar Alexander (R-Tenn),"-$6,198,948","$12,415,524","$31,029,996",Senate
+71,Michael F. Bennet (D-Colo),"$4,901,030","$12,108,015","$19,315,000",Senate
+72,Johnny Isakson (R-Ga),"$6,343,137","$12,068,068","$17,793,000",Senate
+73,Jackie Speier (D-Calif),"$5,000,078","$11,083,039","$17,166,000",House
+75,Jeff Bingaman (D-NM),"$4,937,166","$10,472,583","$16,008,000",Senate
+76,Keith J. Rothfus (R-Pa),"$5,391,054","$10,003,527","$14,616,000",House
+77,John Garamendi (D-Calif),"$2,363,015","$9,716,505","$17,069,995",House
+78,Elizabeth Warren (D-Mass),"$4,624,026","$9,685,013","$14,746,000",Senate
+79,Ben Nelson (D-Neb),"$6,138,071","$9,246,036","$12,354,001",Senate
+80,John McCain (R-Ariz),"$3,226,239","$9,237,110","$15,247,981",Senate
+81,David McKinley (R-WVa),"$4,680,082","$9,202,541","$13,725,000",House
+82,Kurt Schrader (D-Ore),"$4,515,071","$9,077,509","$13,639,948",House
+83,Filemon Vela (D-Texas),"$1,254,014","$8,600,004","$15,945,995",House
+84,Al Franken (D-Minn),"$4,200,057","$8,429,528","$12,659,000",Senate
+85,Jeff Landry (R-La),"$3,476,017","$8,423,007","$13,369,997",House
+86,Sheldon Whitehouse (D-RI),"$2,948,228","$8,311,113","$13,673,998",Senate
+87,Bill Flores (R-Texas),"$3,481,015","$8,274,507","$13,068,000",House
+88,Vicky Hartzler (R-Mo),"$2,218,026","$8,036,510","$13,854,995",House
+89,Richard C. Shelby (R-Ala),"$4,680,045","$7,931,023","$11,182,002",Senate
+90,John Fleming (R-La),"-$1,447,900","$7,768,570","$16,985,040",House
+91,Jon Runyan (R-NJ),"$3,400,025","$7,705,512","$12,010,999",House
+92,Joe Manchin (D-WVa),"$3,614,101","$7,650,050","$11,686,000",Senate
+93,Jim Cooper (D-Tenn),"$3,679,042","$7,396,021","$11,113,000",House
+94,Wally Herger (R-Calif),"$2,817,010","$7,323,505","$11,830,000",House
+95,James M. Inhofe (R-Okla),"$3,569,044","$7,140,022","$10,711,000",Senate
+96,Charles Bass (R-NH),"$3,439,035","$6,987,517","$10,536,000",House
+97,Mark R. Meadows (R-NC),"$1,674,034","$6,846,016","$12,017,998",House
+98,Dennis Heck (D-Wash),"$4,219,067","$6,827,033","$9,435,000",House
+99,Jeff Sessions (R-Ala),"$2,772,070","$6,789,034","$10,805,998",Senate
+100,Dave Camp (R-Mich),"$3,818,146","$6,781,573","$9,745,000",House
+101,Earl Blumenauer (D-Ore),"$2,827,035","$6,751,014","$10,674,994",House
+102,Beto O'Rourke (D-Texas),"-$1,546,154","$6,653,843","$14,853,840",House
+103,Kay Bailey Hutchison (R-Texas),"$3,818,094","$6,533,047","$9,248,000",Senate
+104,Scott Tipton (R-Colo),"$2,916,072","$6,490,536","$10,065,000",House
+105,John L. Mica (R-Fla),"$3,266,012","$6,466,006","$9,666,000",House
+106,George Holding (R-NC),"$3,942,054","$6,436,027","$8,930,000",House
+107,Eric Cantor (R-Va),"$3,477,118","$6,419,058","$9,360,999",House
+108,Dan Coats (R-Ind),"$2,944,037","$6,319,518","$9,695,000",Senate
+110,James Webb (D-Va),"$1,420,178","$6,148,587","$10,876,997",Senate
+111,John A. Barrasso (R-Wyo),"$3,000,019","$6,137,509","$9,275,000",Senate
+113,Virginia Foxx (R-NC),"$2,767,032","$5,923,516","$9,080,000",House
+114,Heath Shuler (D-NC),"$1,269,029","$5,791,512","$10,313,996",House
+115,Mike Conaway (R-Texas),"$3,122,115","$5,703,057","$8,283,999",House
+116,Cliff Stearns (R-Fla),"$2,094,030","$5,501,013","$8,907,996",House
+118,David Dreier (R-Calif),"$2,914,147","$5,391,073","$7,868,000",House
+119,Robert L. Turner (R-NY),"$5,301,319","$5,390,317","$5,479,316",House
+120,Dina Titus (D-Nev),"$2,317,057","$5,376,028","$8,435,000",House
+121,Ann L. Wagner (R-Mo),"$3,276,087","$5,361,043","$7,446,000",House
+122,Jean Schmidt (R-Ohio),"$1,801,058","$5,339,027","$8,876,997",House
+123,Phil Gingrey (R-Ga),"$2,965,029","$5,287,513","$7,609,997",House
+124,Paul Ryan (R-Wisc),"$2,041,092","$5,228,046","$8,415,000",House
+125,Madeleine Z. Bordallo (D-Guam),"$2,145,008","$5,147,503","$8,149,999",House
+126,Roscoe G. Bartlett (R-Md),"$2,282,016","$5,106,008","$7,930,000",House
+127,Tom Latham (R-Iowa),"$2,315,175","$4,982,671","$7,650,167",House
+128,Markwayne Mullin (R-Okla),"$2,141,031","$4,917,015","$7,693,000",House
+129,Chris Coons (D-Del),"$2,690,584","$4,893,080","$7,095,576",Senate
+130,Elizabeth Esty (D-Conn),"$2,538,140","$4,807,570","$7,077,000",House
+131,John D. Dingell (D-Mich),"$2,636,103","$4,777,051","$6,918,000",House
+133,Niki Tsongas (D-Mass),"$1,298,049","$4,634,023","$7,969,998",House
+134,Denny Rehberg (R-Mont),"-$2,402,988","$4,613,504","$11,629,996",House
+135,Peter Welch (D-Vt),"$2,459,097","$4,602,548","$6,745,999",House
+137,Susan Brooks (R-Ind),"$1,809,033","$4,509,516","$7,210,000",House
+138,Harry Reid (D-Nev),"$2,781,063","$4,491,031","$6,201,000",Senate
+139,Al Green (D-Texas),"$1,565,012","$4,407,505","$7,249,999",House
+140,Michael O. Johanns (R-Neb),"$2,660,036","$4,360,518","$6,061,000",Senate
+142,Tom Rice (R-SC),"-$14,851,982","$4,296,505","$23,444,993",House
+143,Maria Cantwell (D-Wash),"$1,737,012","$4,213,505","$6,689,999",Senate
+144,Lamar Smith (R-Texas),"$2,337,120","$4,201,560","$6,066,000",House
+146,Tom Carper (D-Del),"$2,015,265","$4,060,193","$6,105,122",Senate
+148,Pat Toomey (R-Pa),"$2,263,069","$3,918,034","$5,573,000",Senate
+149,Ken Calvert (R-Calif),"-$1,899,989","$3,900,002","$9,699,994",House
+150,Suzanne Bonamici (D-Ore),"$2,359,037","$3,897,018","$5,435,000",House
+151,Carolyn McCarthy (D-NY),"$1,779,660","$3,855,157","$5,930,655",House
+152,Mick Mulvaney (R-SC),"$1,551,075","$3,847,036","$6,142,997",House
+153,Hal Rogers (R-Ky),"$1,753,288","$3,820,285","$5,887,283",House
+154,Jim Costa (D-Calif),"$1,119,009","$3,814,503","$6,509,998",House
+155,John Barrow (D-Ga),"$1,515,004","$3,783,002","$6,051,000",House
+157,Pete Stark (D-Calif),"-$19,217,981","$3,768,508","$26,754,997",House
+159,Robert Dold (R-Ill),"$1,047,023","$3,728,509","$6,409,996",House
+160,Tom Cole (R-Okla),"$2,036,074","$3,713,537","$5,391,000",House
+161,Tom Coburn (R-Okla),"$1,892,116","$3,702,058","$5,512,000",Senate
+162,Heidi Heitkamp (D-ND),"$1,951,092","$3,672,046","$5,393,000",Senate
+163,Judy Biggert (R-Ill),"$1,983,077","$3,664,038","$5,345,000",House
+164,Cheri Bustos (D-Ill),"$1,098,029","$3,647,513","$6,196,998",House
+166,John Boehner (R-Ohio),"$1,787,113","$3,621,056","$5,455,000",House
+167,Ami Bera (D-Calif),"$688,095","$3,616,543","$6,544,991",House
+168,Tim Scott (R-SC),"$989,144","$3,593,134","$6,197,124",Senate
+169,Ed Whitfield (R-Ky),"$2,023,048","$3,571,523","$5,119,999",House
+171,Tom Rooney (R-Fla),"$1,084,015","$3,466,006","$5,847,998",House
+172,Jeanne Shaheen (D-NH),"$1,692,382","$3,457,871","$5,223,360",Senate
+173,Bill Nelson (D-Fla),"$1,265,006","$3,432,503","$5,600,000",Senate
+174,Doug LaMalfa (R-Calif),"$1,268,007","$3,432,003","$5,596,000",House
+175,Steve Cohen (D-Tenn),"$1,737,102","$3,410,551","$5,084,000",House
+176,Jim Himes (D-Conn),"$1,759,050","$3,410,524","$5,061,999",House
+177,Jo Bonner (R-Ala),"$1,075,022","$3,402,509","$5,729,997",House
+178,John Boozman (R-Ark),"$700,012","$3,388,505","$6,076,999",Senate
+180,Ron Paul (R-Texas),"$1,814,039","$3,376,019","$4,937,999",House
+181,John W. Olver (D-Mass),"$2,035,029","$3,367,514","$4,700,000",House
+182,David P Joyce (R-Ohio),"$1,662,116","$3,333,558","$5,005,000",House
+183,Jeff Denham (R-Calif),"$1,060,006","$3,330,002","$5,599,999",House
+184,Steven Palazzo (R-Miss),"$913,026","$3,304,512","$5,695,998",House
+185,Barbara Boxer (D-Calif),"$1,147,008","$3,263,504","$5,380,000",Senate
+186,James P. McGovern (D-Mass),"$1,102,012","$3,228,506","$5,355,000",House
+187,David Schweikert (R-Ariz),"$790,015","$3,170,006","$5,549,997",House
+188,Robert B. Aderholt (R-Ala),"$506,019","$3,161,009","$5,815,999",House
+191,Roy Blunt (R-Mo),"$575,020","$3,093,009","$5,610,998",Senate
+192,Bill Pascrell Jr (D-NJ),"$1,862,037","$3,085,518","$4,309,000",House
+193,Trey Radel (R-Fla),"$1,510,103","$3,071,051","$4,631,999",House
+194,Dean Heller (R-Nev),"$2,768,846","$3,059,840","$3,350,835",Senate
+195,Matt Cartwright (D-Pa),"$1,166,035","$3,053,015","$4,939,996",House
+196,Brad Wenstrup (R-Ohio),"$2,784,051","$3,051,048","$3,318,045",House
+197,Orrin G. Hatch (R-Utah),"$1,715,063","$3,046,531","$4,378,000",Senate
+198,Reid Ribble (R-Wis),"$176,017","$3,038,007","$5,899,997",House
+199,David Price (D-NC),"$1,569,079","$2,966,039","$4,363,000",House
+200,Dennis Ross (R-Fla),"-$3,097,996","$2,951,000","$8,999,997",House
+201,Steven R. Rothman (D-NJ),"$1,676,039","$2,946,019","$4,216,000",House
+202,Jeff Merkley (D-Ore),"$2,001,026","$2,933,012","$3,864,999",Senate
+203,Luis V. Gutierrez (D-Ill),"$1,659,039","$2,922,519","$4,186,000",House
+204,Jack Kingston (R-Ga),"$2,269,648","$2,901,142","$3,532,637",House
+205,Daniel K. Inouye (D-Hawaii),"$1,765,017","$2,888,008","$4,010,999",Senate
+206,Tom Udall (D-NM),"$1,670,040","$2,850,020","$4,030,000",Senate
+207,G. K. Butterfield (D-NC),"-$179,987","$2,837,500","$5,854,988",House
+208,Steve Southerland (R-Fla),"$500,004","$2,826,001","$5,151,998",House
+209,Thomas Massie (R-Ky),"$750,001","$2,825,000","$4,899,999",House
+210,Pedro Pierluisi (D-PR),"$686,004","$2,823,499","$4,960,995",House
+212,Randy Forbes (R-Va),"$44,010","$2,767,002","$5,489,994",House
+213,John Carter (R-Texas),"$500,002","$2,759,999","$5,019,996",House
+214,Lois J. Frankel (D-Fla),"$634,333","$2,745,666","$4,857,000",House
+215,Ben Cardin (D-Md),"$1,416,074","$2,707,037","$3,998,000",Senate
+216,Leonard Lance (R-NJ),"$1,531,057","$2,687,028","$3,843,000",House
+218,Greg Walden (R-Ore),"$1,632,032","$2,656,516","$3,681,000",House
+219,Louise M. Slaughter (D-NY),"$1,664,020","$2,637,010","$3,610,000",House
+220,William Enyart (D-Ill),"$1,445,053","$2,611,526","$3,778,000",House
+221,Mike D. Rogers (R-Ala),"$1,626,020","$2,595,510","$3,565,000",House
+222,Anna Eshoo (D-Calif),"$1,604,012","$2,582,006","$3,560,000",House
+223,Allyson Schwartz (D-Pa),"$1,494,044","$2,577,522","$3,661,000",House
+224,Chuck Grassley (R-Iowa),"$1,258,076","$2,565,038","$3,872,000",Senate
+225,Gary Peters (D-Mich),"$919,163","$2,550,081","$4,181,000",House
+226,Chuck Fleischmann (R-Tenn),"$1,938,662","$2,515,658","$3,092,654",House
+227,Joyce Beatty (D-Ohio),"$1,526,030","$2,508,515","$3,491,000",House
+228,Sam Farr (D-Calif),"$1,509,031","$2,484,515","$3,460,000",House
+229,Loretta Sanchez (D-Calif),"$4,006","$2,482,001","$4,959,997",House
+230,Mazie K. Hirono (D-Hawaii),"$1,431,037","$2,478,018","$3,524,999",Senate
+231,Phil Roe (R-Tenn),"$2,129,694","$2,475,689","$2,821,684",House
+232,Kent Conrad (D-ND),"$1,487,041","$2,472,020","$3,457,000",Senate
+233,Bill Owens (D-NY),"$1,418,034","$2,463,016","$3,507,999",House
+234,Ander Crenshaw (R-Fla),"$1,460,023","$2,367,511","$3,275,000",House
+235,Billy Long (R-Mo),"$846,035","$2,351,516","$3,856,997",House
+236,Nick Rahall (D-WVa),"$1,682,547","$2,318,041","$2,953,535",House
+237,Colleen Hanabusa (D-Hawaii),"$1,471,014","$2,318,007","$3,165,000",House
+238,Andy Harris (R-Md),"$974,049","$2,304,524","$3,634,999",House
+239,Dan Boren (D-Okla),"$1,148,038","$2,289,518","$3,430,998",House
+240,Judy Chu (D-Calif),"$1,284,027","$2,254,513","$3,225,000",House
+241,Grace Meng (D-NY),"$1,110,165","$2,247,141","$3,384,118",House
+242,Robert E. Latta (R-Ohio),"$1,259,040","$2,247,020","$3,235,000",House
+243,Mike Thompson (D-Calif),"$1,166,010","$2,215,504","$3,264,999",House
+244,Daniel Lipinski (D-Ill),"$1,144,057","$2,177,028","$3,210,000",House
+245,Richard Burr (R-NC),"$1,403,524","$2,151,517","$2,899,511",Senate
+246,Susan A. Davis (D-Calif),"$1,152,043","$2,146,021","$3,139,999",House
+247,Bob Goodlatte (R-Va),"$1,234,042","$2,135,021","$3,036,000",House
+248,Sander Levin (D-Mich),"$2,103,904","$2,128,403","$2,152,902",House
+249,Howard Coble (R-NC),"$1,392,690","$2,105,172","$2,817,654",House
+251,Ted Yoho (R-Fla),"$1,071,015","$2,053,006","$3,034,997",House
+252,Tom Graves (R-Ga),"$1,024,017","$2,029,507","$3,034,998",House
+253,Jim Langevin (D-RI),"$674,031","$2,004,514","$3,334,997",House
+254,Brian P. Bilbray (R-Calif),"$1,566,877","$1,975,871","$2,384,866",House
+255,Thad Cochran (R-Miss),"$926,061","$1,971,530","$3,017,000",Senate
+256,Joe Lieberman (I-Conn),"$949,076","$1,968,038","$2,987,000",Senate
+257,Mike Simpson (R-Idaho),"$1,575,565","$1,960,562","$2,345,559",House
+258,Rush Holt (D-NJ),"$682,014","$1,956,006","$3,229,998",House
+259,Dutch Ruppersberger (D-Md),"$1,155,026","$1,890,013","$2,625,000",House
+260,Dan Benishek (R-Mich),"$950,054","$1,863,527","$2,777,000",House
+261,Bill Keating (D-Mass),"$968,049","$1,859,524","$2,750,999",House
+262,Zoe Lofgren (D-Calif),"$1,018,038","$1,856,519","$2,695,000",House
+263,Bill Cassidy (R-La),"$842,059","$1,838,529","$2,834,999",House
+264,Ted Cruz (R-Texas),"-$104,950","$1,836,022","$3,776,994",Senate
+265,Charles B. Rangel (D-NY),"$1,130,127","$1,830,117","$2,530,107",House
+266,Mary L. Landrieu (D-La),"$917,020","$1,829,008","$2,740,997",Senate
+267,Gerry Connolly (D-Va),"$589,048","$1,822,522","$3,055,996",House
+268,Pat Roberts (R-Kan),"$993,036","$1,793,518","$2,594,000",Senate
+269,Ann Mclane Kuster (D-NH),"$1,444,994","$1,762,991","$2,080,988",House
+270,Austin Scott (R-Ga),"$831,623","$1,751,613","$2,671,604",House
+271,Ralph M. Hall (R-Texas),"$950,006","$1,717,502","$2,484,998",House
+272,Dennis Cardoza (D-Calif),"$742,021","$1,691,009","$2,639,998",House
+273,Jeb Hensarling (R-Texas),"$998,025","$1,684,012","$2,370,000",House
+275,Chip Cravaack (R-Minn),"$1,043,018","$1,669,009","$2,295,000",House
+276,Xavier Becerra (D-Calif),"$666,057","$1,666,027","$2,665,998",House
+277,Eleanor Holmes Norton (D-DC),"$893,038","$1,657,519","$2,422,000",House
+278,Cathy McMorris Rodgers (R-Wash),"$884,018","$1,654,508","$2,424,999",House
+279,Kathleen Hochul (D-NY),"$1,041,015","$1,653,007","$2,265,000",House
+280,Carl Levin (D-Mich),"$1,375,210","$1,652,205","$1,929,200",Senate
+281,Candice S. Miller (R-Mich),"$1,034,013","$1,647,506","$2,261,000",House
+282,Robert A. Brady (D-Pa),"$1,080,007","$1,640,503","$2,201,000",House
+283,David Vitter (R-La),"$801,061","$1,640,030","$2,479,000",Senate
+284,Michael Burgess (R-Texas),"$763,079","$1,634,539","$2,505,999",House
+285,Dan Burton (R-Ind),"$954,019","$1,594,509","$2,235,000",House
+286,Lou Barletta (R-Pa),"-$3,898","$1,582,049","$3,167,996",House
+287,Juan Vargas (D-Calif),"$977,011","$1,553,505","$2,130,000",House
+288,Kathy Castor (D-Fla),"$707,058","$1,545,529","$2,384,000",House
+289,Bob Gibbs (R-Ohio),"$669,050","$1,507,524","$2,345,998",House
+290,Edward J. Markey (D-Mass),"$855,025","$1,503,012","$2,151,000",House
+291,Michele Bachmann (R-Minn),"$514,020","$1,499,509","$2,484,998",House
+292,Diana DeGette (D-Colo),"$838,025","$1,491,512","$2,145,000",House
+293,Mark Udall (D-Colo),"$664,062","$1,475,531","$2,287,000",Senate
+295,Brad Sherman (D-Calif),"$365,017","$1,446,508","$2,527,999",House
+296,Michael E. Capuano (D-Mass),"$396,028","$1,414,512","$2,432,997",House
+297,Mark Begich (D-Alaska),"-$409,951","$1,376,522","$3,162,995",Senate
+298,Pete Olson (R-Texas),"$680,033","$1,340,016","$2,000,000",House
+299,Dick Durbin (D-Ill),"$1,208,567","$1,326,065","$1,443,564",Senate
+300,Julia Brownley (D-Calif),"$684,028","$1,322,014","$1,960,000",House
+302,Timothy Johnson (R-Ill),"$688,027","$1,316,513","$1,945,000",House
+303,Elton Gallegly (R-Calif),"$27,020","$1,316,008","$2,604,997",House
+304,Doris O. Matsui (D-Calif),"$723,018","$1,309,009","$1,895,000",House
+305,John F. Tierney (D-Mass),"$526,011","$1,270,504","$2,014,998",House
+306,Howard L. Berman (D-Calif),"$1,158,621","$1,251,120","$1,343,619",House
+307,Pete Sessions (R-Texas),"$706,017","$1,249,508","$1,793,000",House
+309,Peter DeFazio (D-Ore),"$519,020","$1,237,508","$1,955,996",House
+310,Bill Shuster (R-Pa),"$675,033","$1,222,016","$1,769,000",House
+311,Henry A. Waxman (D-Calif),"$654,021","$1,207,510","$1,761,000",House
+312,Pete Visclosky (D-Ind),"$607,023","$1,156,511","$1,706,000",House
+313,Ed Pastor (D-Ariz),"$701,012","$1,145,506","$1,590,000",House
+314,Sam Graves (R-Mo),"$519,010","$1,145,003","$1,770,997",House
+315,Jon Tester (D-Mont),"$752,004","$1,141,002","$1,530,000",Senate
+316,Doc Hastings (R-Wash),"$681,013","$1,135,506","$1,590,000",House
+317,Shelley Moore Capito (R-WVa),"-$17,938","$1,124,528","$2,266,995",House
+318,Rick Nolan (D-Minn),"$717,010","$1,124,505","$1,532,000",House
+319,Richard Nugent (R-Fla),"$567,009","$1,124,004","$1,680,999",House
+320,Jerry Lewis (R-Calif),"$645,010","$1,122,505","$1,600,000",House
+321,Scott Brown (R-Mass),"$314,652","$1,121,133","$1,927,614",Senate
+322,Larry Bucshon (R-Ind),"$1,112,597","$1,119,596","$1,126,596",House
+323,Kay Granger (R-Texas),"$400,013","$1,092,505","$1,784,997",House
+324,Tim Kaine (D-Va),"$667,015","$1,087,007","$1,507,000",Senate
+325,Barney Frank (D-Mass),"$1,080,283","$1,080,283","$1,080,283",House
+327,Alan Lowenthal (D-Calif),"$481,045","$1,073,022","$1,665,000",House
+328,Peter Roskam (R-Ill),"$475,053","$1,063,526","$1,652,000",House
+329,Ann Kirkpatrick (D-Ariz),"$609,016","$1,060,008","$1,511,000",House
+330,Melvin L. Watt (D-NC),"$456,044","$1,041,021","$1,625,999",House
+331,Adam Schiff (D-Calif),"$503,033","$1,024,016","$1,545,000",House
+332,Justin Amash (R-Mich),"$477,026","$1,013,512","$1,549,998",House
+333,Ron Kind (D-Wis),"$486,023","$996,511","$1,506,999",House
+334,Timothy H. Bishop (D-NY),"$652,009","$992,004","$1,332,000",House
+335,Jim Matheson (D-Utah),"$558,026","$989,013","$1,420,000",House
+336,Paul Gosar (R-Ariz),"$515,003","$982,501","$1,449,999",House
+337,Daniel K. Akaka (D-Hawaii),"$617,006","$975,503","$1,334,000",Senate
+338,Maxine Waters (D-Calif),"-$3,511,983","$972,007","$5,455,998",House
+339,Ben Quayle (R-Ariz),"$199,100","$967,050","$1,735,000",House
+340,David Cicilline (D-RI),"$502,004","$966,001","$1,429,999",House
+341,Steve Stivers (R-Ohio),"$452,041","$955,520","$1,459,000",House
+342,Frederica Wilson (D-Fla),"$563,011","$954,005","$1,345,000",House
+343,Mike Honda (D-Calif),"$569,010","$939,505","$1,310,000",House
+344,Marcia L. Fudge (D-Ohio),"$558,013","$939,006","$1,320,000",House
+345,Mike Enzi (R-Wyo),"$322,062","$928,531","$1,535,000",Senate
+346,Edwin G. Perlmutter (D-Colo),"$508,033","$927,516","$1,347,000",House
+347,Elijah E. Cummings (D-Md),"-$139,986","$922,504","$1,984,995",House
+348,Patrick J. Tiberi (R-Ohio),"$308,031","$907,014","$1,505,997",House
+349,Jason Chaffetz (R-Utah),"$552,014","$905,007","$1,258,000",House
+350,Lindsey Graham (R-SC),"$505,987","$904,983","$1,303,979",Senate
+351,Henry Cuellar (D-Texas),"-$19,982","$902,507","$1,824,996",House
+352,Leonard L. Boswell (D-Iowa),"$600,003","$900,001","$1,200,000",House
+353,Don Manzullo (R-Ill),"$536,007","$890,503","$1,245,000",House
+354,Ron Barber (D-Ariz),"$263,020","$887,981","$1,512,942",House
+355,Paul Cook (R-Calif),"$536,017","$884,008","$1,232,000",House
+356,Sheila Jackson Lee (D-Texas),"$759,405","$881,898","$1,004,391",House
+357,Don Young (R-Alaska),"$495,008","$872,504","$1,250,000",House
+358,Rand Paul (R-Ky),"$433,025","$864,012","$1,295,000",Senate
+359,Joe Pitts (R-Pa),"$512,008","$863,503","$1,214,999",House
+360,Emanuel Cleaver (D-Mo),"$448,013","$859,006","$1,269,999",House
+361,Ileana Ros-Lehtinen (R-Fla),"$554,007","$857,003","$1,160,000",House
+362,Scott Perry (R-Pa),"$406,019","$856,009","$1,305,999",House
+363,Mike Coffman (R-Colo),"$500,007","$825,003","$1,150,000",House
+364,Mo Brooks (R-Ala),"$343,043","$807,021","$1,271,000",House
+365,Tim Johnson (D-SD),"$355,031","$805,015","$1,255,000",Senate
+366,Bill Huizenga (R-Mich),"$514,140","$798,135","$1,082,131",House
+367,Joe Garcia (D-Fla),"$451,015","$795,507","$1,140,000",House
+368,Chris Stewart (R-Utah),"$503,005","$794,002","$1,085,000",House
+369,Steve Chabot (R-Ohio),"$374,031","$792,015","$1,210,000",House
+370,Frank Pallone Jr (D-NJ),"$198,057","$789,027","$1,379,998",House
+371,Ben Chandler (D-Ky),"$441,013","$778,506","$1,116,000",House
+372,Jerry Moran (R-Kan),"$386,019","$777,009","$1,168,000",Senate
+373,Kelly Ayotte (R-NH),"$242,014","$773,505","$1,304,997",Senate
+374,Bob Filner (D-Calif),"$402,016","$766,508","$1,131,000",House
+375,Adam Smith (D-Wash),"$433,010","$764,005","$1,095,000",House
+376,Tammy Baldwin (D-Wis),"$501,003","$758,501","$1,016,000",Senate
+377,Ted Deutch (D-Fla),"$379,020","$757,010","$1,135,000",House
+378,Bennie G. Thompson (D-Miss),"$357,027","$756,513","$1,156,000",House
+379,Mike Crapo (R-Idaho),"$257,048","$752,045","$1,247,042",Senate
+380,Robert E. Andrews (D-NJ),"$432,009","$749,004","$1,065,999",House
+381,Spencer Bachus (R-Ala),"$379,014","$745,506","$1,111,999",House
+383,Tim Murphy (R-Pa),"$234,056","$736,528","$1,239,000",House
+384,Todd Rokita (R-Ind),"-$23,947","$715,525","$1,454,997",House
+385,Pete Gallego (D-Texas),"$136,009","$713,503","$1,290,998",House
+386,George Miller (D-Calif),"$264,020","$709,009","$1,153,999",House
+387,Bill Posey (R-Fla),"$234,013","$698,006","$1,161,999",House
+388,Joe Wilson (R-SC),"-$472,988","$696,003","$1,864,994",House
+389,Amy Klobuchar (D-Minn),"$310,029","$681,014","$1,052,000",Senate
+390,Michael R. Turner (R-Ohio),"$155,069","$674,534","$1,194,000",House
+391,Patty Murray (D-Wash),"$64,019","$674,508","$1,284,998",Senate
+392,Stephen F. Lynch (D-Mass),"$12,018","$673,008","$1,333,998",House
+393,Thaddeus G. McCotter (R-Mich),"$265,037","$667,518","$1,069,999",House
+394,Martha Roby (R-Ala),"$277,027","$649,513","$1,022,000",House
+395,John M. Shimkus (R-Ill),"$113,010","$646,504","$1,179,998",House
+396,Blaine Luetkemeyer (R-Mo),"-$3,597,994","$641,002","$4,879,999",House
+397,Jeff Duncan (R-SC),"-$24,983","$640,006","$1,304,995",House
+398,Norm Dicks (D-Wash),"$397,008","$638,504","$880,000",House
+399,Frank Guinta (R-NH),"-$194,983","$637,506","$1,469,996",House
+400,Charles E. Schumer (D-NY),"$320,017","$635,008","$950,000",Senate
+401,Jon L. Kyl (R-Ariz),"$602,134","$633,632","$665,131",Senate
+402,Charles W. Boustany Jr (R-La),"$549,931","$631,427","$712,924",House
+403,Alan Nunnelee (R-Miss),"$365,011","$620,005","$875,000",House
+404,Brett Guthrie (R-Ky),"$309,029","$613,514","$918,000",House
+405,Rodney Alexander (R-La),"$351,006","$608,503","$866,000",House
+406,Gus Bilirakis (R-Fla),"$246,035","$605,517","$965,000",House
+407,Randy Weber (R-Texas),"$351,004","$600,501","$849,999",House
+408,Dale E. Kildee (D-Mich),"$294,014","$594,506","$894,999",House
+409,Todd Akin (R-Mo),"$310,021","$593,510","$877,000",House
+410,Jo Ann Emerson (R-Mo),"$201,005","$593,000","$984,996",House
+411,Mark Pocan (D-Wis),"$351,004","$578,002","$805,000",House
+412,Jack Reed (D-RI),"$171,044","$570,022","$969,000",Senate
+413,Patrick McHenry (R-NC),"$179,012","$569,505","$959,998",House
+414,Joe Donnelly (D-Ind),"$91,011","$561,505","$1,031,999",Senate
+415,Edolphus Towns (D-NY),"$57,012","$556,005","$1,054,999",House
+416,Donna Christian-Christensen (D-VI),"$201,003","$550,500","$899,998",House
+417,Marlin Stutzman (R-Ind),"$14,019","$548,507","$1,082,995",House
+418,Tammy Duckworth (D-Ill),"-$12,936","$548,031","$1,108,998",House
+419,Scott Desjarlais (R-Tenn),"$171,013","$548,005","$924,997",House
+420,Lisa Murkowski (R-Alaska),"$14,040","$538,519","$1,062,999",Senate
+421,Barbara Lee (D-Calif),"$272,014","$534,507","$797,000",House
+422,Jeff Miller (R-Fla),"$258,006","$531,502","$804,998",House
+423,Tim Holden (D-Pa),"$287,017","$523,008","$759,000",House
+424,Gene Green (D-Texas),"$295,006","$522,503","$750,000",House
+425,Marcy Kaptur (D-Ohio),"$290,017","$520,008","$750,000",House
+427,Sherrod Brown (D-Ohio),"$168,007","$507,003","$845,999",Senate
+428,Bruce Braley (D-Iowa),"$223,021","$504,510","$786,000",House
+429,Doug Collins (R-Ga),"$262,341","$504,338","$746,336",House
+430,Robert Menendez (D-NJ),"$317,005","$498,502","$680,000",Senate
+431,Erik Paulsen (R-Minn),"$182,032","$495,516","$809,000",House
+432,Eni F. H. Faleomavaega (D-AS),"$167,022","$486,510","$805,999",House
+433,Kevin Brady (R-Texas),"$212,027","$486,013","$760,000",House
+434,John Carney (D-Del),"$170,030","$485,015","$800,000",House
+435,Michael Grimm (R-NY),$2,"$484,999","$969,997",House
+436,Charlie Dent (R-Pa),"$144,049","$482,024","$820,000",House
+437,Richard G. Lugar (R-Ind),"$74,015","$472,506","$870,998",Senate
+438,Francisco Canseco (R-Texas),"-$186,966","$471,515","$1,129,997",House
+439,Bobby Schilling (R-Ill),"$223,007","$466,503","$709,999",House
+440,Jared Huffman (D-Calif),"$200,018","$462,509","$725,000",House
+441,Frank R. Wolf (R-Va),"$417,222","$459,219","$501,216",House
+442,Bill Johnson (R-Ohio),"$152,042","$458,021","$764,000",House
+443,Danny K. Davis (D-Ill),"$281,014","$453,007","$625,000",House
+444,Mary Bono Mack (R-Calif),"-$387,964","$447,017","$1,281,998",House
+445,Connie Mack (R-Fla),"-$387,964","$447,017","$1,281,998",House
+446,John Kline (R-Minn),"$248,009","$446,504","$645,000",House
+447,Bob Casey (D-Pa),"$207,017","$445,508","$684,000",Senate
+448,Michelle Lujan Grisham (D-NM),"$201,005","$443,001","$684,998",House
+449,Betty Sue Sutton (D-Ohio),"$78,023","$438,511","$798,999",House
+450,David Loebsack (D-Iowa),"$198,016","$434,508","$671,000",House
+451,Gloria McLeod (D-Calif),"$101,005","$433,002","$764,999",House
+452,Lynn Jenkins (R-Kan),"$196,014","$430,507","$665,000",House
+453,Daniel Webster (R-Fla),"$221,009","$430,504","$640,000",House
+454,Marsha Blackburn (R-Tenn),"$189,021","$424,510","$660,000",House
+455,John Cornyn (R-Texas),"$146,021","$423,510","$700,999",Senate
+456,Tom Reed (R-NY),"$120,010","$422,504","$724,998",House
+457,Michael G. Fitzpatrick (R-Pa),"$115,038","$420,019","$725,000",House
+459,Jim McDermott (D-Wash),"$404,438","$418,437","$432,436",House
+460,Andy Barr (R-Ky),"$152,029","$418,014","$684,000",House
+461,Mike Michaud (D-Maine),"$180,021","$416,010","$652,000",House
+462,Luke Messer (R-Ind),"$160,006","$415,002","$669,998",House
+463,Bobby Scott (D-Va),"-$215,935","$414,531","$1,044,997",House
+464,Mac Thornberry (R-Texas),"$241,007","$410,503","$580,000",House
+465,Rob Wittman (R-Va),"$148,019","$410,009","$671,999",House
+466,John J. Duncan Jr (R-Tenn),"$168,021","$406,510","$645,000",House
+467,Joe Courtney (D-Conn),"$127,029","$403,514","$680,000",House
+468,Mike Pompeo (R-Kan),"$161,024","$402,512","$644,000",House
+469,Saxby Chambliss (R-Ga),"$208,012","$402,006","$596,000",Senate
+470,Lucille Roybal-Allard (D-Calif),"$221,013","$401,006","$581,000",House
+471,Frank D. Lucas (R-Okla),"-$264,990","$397,502","$1,059,995",House
+472,James E. Clyburn (D-SC),"$212,010","$397,005","$582,000",House
+474,Mark A Takano (D-Calif),"$189,007","$389,503","$590,000",House
+475,Dennis Kucinich (D-Ohio),"$251,005","$384,502","$518,000",House
+476,David Scott (D-Ga),"-$248,997","$383,001","$1,014,999",House
+477,Dave Reichert (R-Wash),"$210,006","$380,003","$550,000",House
+478,Barbara A. Mikulski (D-Md),"$191,016","$379,008","$567,000",Senate
+479,Bobby L. Rush (D-Ill),"$250,001","$375,000","$500,000",House
+480,Steve LaTourette (R-Ohio),"$203,005","$374,002","$545,000",House
+481,Russ Carnahan (D-Mo),"$236,002","$370,501","$505,000",House
+482,Sandy Adams (R-Fla),"$202,005","$366,502","$531,000",House
+483,Jerry F. Costello (D-Ill),"$186,010","$363,005","$540,000",House
+484,Joe Heck (R-Nev),"$128,010","$361,504","$594,999",House
+485,Steven A. King (R-Iowa),"$156,016","$361,008","$566,000",House
+486,Mark Critz (D-Pa),"$106,016","$360,507","$614,999",House
+487,Gary Ackerman (D-NY),"$139,017","$356,508","$573,999",House
+488,Kerry Bentivolio (R-Mich),"$117,040","$355,520","$594,000",House
+489,Tulsi Gabbard (D-Hawaii),"-$52,985","$351,506","$755,997",House
+490,Karen Bass (D-Calif),"$195,006","$348,003","$501,000",House
+491,John Thune (R-SD),"$157,017","$345,008","$533,000",Senate
+492,Lynn Woolsey (D-Calif),"$157,011","$338,505","$520,000",House
+493,Ted Poe (R-Texas),"$103,014","$337,006","$570,999",House
+494,Frank A. LoBiondo (R-NJ),"$51,012","$336,505","$621,999",House
+495,Scott Garrett (R-NJ),"$174,014","$330,007","$486,000",House
+496,Raul Ruiz (D-Calif),"-$26,987","$326,505","$679,998",House
+497,Deb Fischer (R-Neb),"-$4,302,991","$323,501","$4,949,994",Senate
+498,Ed Royce (R-Calif),"$157,417","$320,410","$483,404",House
+499,Walter B. Jones Jr (R-NC),"$139,014","$313,007","$487,000",House
+500,Bernie Sanders (I-Vt),"-$18,986","$308,005","$634,996",Senate
+501,Rob Woodall (R-Ga),"$168,006","$306,503","$445,000",House
+502,Hansen Clarke (D-Mich),"$163,009","$304,004","$445,000",House
+503,Mike Rogers (R-Mich),"$83,016","$302,007","$520,999",House
+504,Derek Kilmer (D-Wash),"$133,015","$302,007","$471,000",House
+505,Jesse Jackson Jr (D-Ill),"$114,017","$300,008","$486,000",House
+506,Roger Wicker (R-Miss),"-$421,981","$299,508","$1,020,998",Senate
+507,Patrick Meehan (R-Pa),"$91,021","$290,510","$490,000",House
+508,Thomas Cotton (R-Ark),"$165,003","$282,501","$400,000",House
+509,Jason Altmire (D-Pa),"$149,009","$279,504","$410,000",House
+510,Linda Sanchez (D-Calif),"-$228,977","$275,509","$779,996",House
+511,Tim Huelskamp (R-Kan),"$123,010","$271,505","$420,000",House
+512,Rodney Davis (R-Ill),"$107,019","$270,009","$433,000",House
+513,Jeff Fortenberry (R-Neb),"$139,006","$269,503","$400,000",House
+514,Joe Barton (R-Texas),"$117,005","$266,002","$414,999",House
+515,Devin Nunes (R-Calif),"$151,003","$258,001","$365,000",House
+516,Rick Larsen (D-Wash),"$116,015","$255,007","$394,000",House
+517,Joseph Crowley (D-NY),"$83,020","$251,510","$420,000",House
+518,Chaka Fattah (D-Pa),"$150,002","$250,001","$350,000",House
+519,Tim Walberg (R-Mich),"$64,022","$249,511","$435,000",House
+520,Lynn A. Westmoreland (R-Ga),"-$7,982,994","$248,501","$8,479,997",House
+521,Maurice Hinchey (D-NY),"$131,004","$248,002","$365,000",House
+522,James D. Jordan (R-Ohio),"$119,008","$240,504","$362,000",House
+523,Albio Sires (D-NJ),"$132,006","$231,003","$330,000",House
+524,John Sarbanes (D-Md),"$94,011","$227,505","$361,000",House
+525,Pete King (R-NY),"$150,003","$225,001","$300,000",House
+526,John Culberson (R-Texas),"-$529,996","$225,001","$979,998",House
+527,Sue Myrick (R-NC),"$85,009","$222,504","$359,999",House
+528,Morgan Griffith (R-Va),$2,"$220,000","$439,999",House
+529,Lee Terry (R-Neb),"$60,020","$218,510","$377,000",House
+530,Steve Austria (R-Ohio),"$92,008","$218,504","$345,000",House
+531,Hakeem Jeffries (D-NY),"$88,839","$217,833","$346,828",House
+532,Kevin McCarthy (R-Calif),"$70,016","$211,008","$352,000",House
+533,Grace Napolitano (D-Calif),"$1,002","$208,000","$414,999",House
+534,Jan Schakowsky (D-Ill),"$10,024","$207,511","$404,999",House
+535,Larry Kissell (D-NC),"$58,009","$206,504","$354,999",House
+536,Susan Collins (R-Maine),"$110,005","$205,002","$300,000",Senate
+537,Mike Ross (D-Ark),"$29,010","$204,504","$379,998",House
+538,Patrick Murphy (D-Fla),"$36,024","$201,512","$367,000",House
+539,Dan Kildee (D-Mich),"$81,005","$190,502","$299,999",House
+540,Tony Cardenas (D-Calif),"$30,011","$190,005","$349,999",House
+541,Terri A. Sewell (D-Ala),"-$637,983","$183,507","$1,004,997",House
+542,Ann Marie Buerkle (R-NY),"$66,003","$183,001","$299,999",House
+543,Dana Rohrabacher (R-Calif),"-$398,997","$183,001","$764,999",House
+544,Max Baucus (D-Mont),"-$82,996","$182,001","$446,998",Senate
+545,John B. Larson (D-Conn),"$21,008","$180,503","$339,999",House
+546,Steven Horsford (D-Nev),"$33,019","$176,509","$320,000",House
+547,Mike Doyle (D-Pa),"$15,003","$175,000","$334,998",House
+548,Chris Gibson (R-NY),"$100,001","$175,000","$250,000",House
+549,James Lankford (R-Okla),"$21,021","$168,010","$315,000",House
+550,Raul M. Grijalva (D-Ariz),"$81,005","$168,002","$255,000",House
+551,Matt Salmon (R-Ariz),"$16,005","$168,001","$319,997",House
+552,Mark Amodei (R-Nev),"$102,004","$166,002","$230,000",House
+553,Jim Gerlach (R-Pa),"$63,007","$154,003","$245,000",House
+554,Adrian Smith (R-Neb),"-$32,988","$153,505","$339,998",House
+555,Adam Kinzinger (R-Ill),"$62,006","$146,003","$230,000",House
+556,Allen West (R-Fla),"$51,009","$145,504","$240,000",House
+557,Aaron Schock (R-Ill),"-$880,811","$144,186","$1,169,184",House
+558,Ben R. Lujan (D-NM),"$16,003","$140,501","$264,999",House
+559,Buck Mckeon (R-Calif),"$85,002","$137,501","$190,000",House
+560,Joaquin Castro (D-Texas),"-$19,997","$132,500","$284,998",House
+561,Richard Hudson (R-NC),"$35,002","$130,500","$225,999",House
+562,Brian M. Higgins (D-NY),"$3,013","$130,006","$256,999",House
+563,Patrick Leahy (D-Vt),"$49,007","$129,503","$210,000",Senate
+564,Paul Broun Jr (R-Ga),"$16,016","$128,008","$240,000",House
+565,Dan Lungren (R-Calif),"$65,003","$127,501","$190,000",House
+566,Richard E. Neal (D-Mass),"$67,010","$126,505","$186,000",House
+567,Gregg Harper (R-Miss),"-$198,996","$125,501","$449,998",House
+568,Mike McIntyre (D-NC),"$67,006","$124,503","$182,000",House
+569,C. W. Bill Young (R-Fla),"$66,003","$115,501","$165,000",House
+570,Mike Lee (R-Utah),"$52,004","$111,002","$170,000",Senate
+571,Cory Gardner (R-Colo),"-$34,984","$107,507","$249,999",House
+572,Brad Miller (D-NC),"$22,044","$106,522","$191,000",House
+573,Geoff Davis (R-Ky),"$46,004","$105,502","$165,000",House
+574,Yvette D. Clarke (D-NY),"$35,007","$105,003","$175,000",House
+575,Kristi Noem (R-SD),"-$464,992","$105,003","$674,999",House
+576,Kirsten Gillibrand (D-NY),"$34,006","$102,003","$170,000",Senate
+577,Lois Capps (D-Calif),"-$3,976,987","$98,006","$4,172,999",House
+578,Todd Young (R-Ind),"-$489,995","$97,501","$684,998",House
+579,Steve Womack (R-Ark),"-$115,993","$97,003","$309,999",House
+580,Chris Van Hollen (D-Md),"$33,006","$89,503","$146,000",House
+581,Betty McCollum (D-Minn),"$11,011","$88,005","$165,000",House
+582,Todd Platts (R-Pa),"$10,016","$83,008","$156,000",House
+583,Gregorio Sablan (D-MP),"$5,006","$82,502","$159,999",House
+584,Mike Pence (R-Ind),"$10,014","$82,007","$154,000",House
+585,Tom Marino (R-Pa),"-$411,992","$81,503","$574,998",House
+586,Steny H. Hoyer (D-Md),"$30,004","$66,002","$102,000",House
+587,John Lewis (D-Ga),"$8,009","$64,504","$121,000",House
+588,Chris Smith (R-NJ),"$61,515","$61,515","$61,515",House
+589,Martin Heinrich (D-NM),"-$243,983","$53,008","$349,999",Senate
+590,Timothy J. Walz (D-Minn),"-$265,991","$52,002","$369,996",House
+591,Glenn Thompson (R-Pa),"-$148,997","$50,500","$249,998",House
+592,Sam Johnson (R-Texas),"$17,003","$48,501","$80,000",House
+593,Janice Hahn (D-Calif),"$17,003","$48,501","$80,000",House
+594,Sanford D. Bishop Jr (D-Ga),"-$180,990","$40,504","$261,998",House
+595,Mark Pryor (D-Ark),"$16,002","$40,501","$65,000",Senate
+596,Rob Bishop (R-Utah),"$16,002","$40,501","$65,000",House
+597,Eric Swalwell (D-Calif),"$16,002","$40,501","$65,000",House
+598,Robert Hurt (R-Va),"-$79,993","$40,002","$159,998",House
+599,Charlie A. Gonzalez (D-Texas),"-$198,995","$38,501","$275,997",House
+600,James Bridenstine (R-Okla),"-$138,994","$38,002","$214,999",House
+601,Donna Edwards (D-Md),"$15,483","$36,481","$57,480",House
+602,John Sullivan (R-Okla),"$15,001","$32,500","$50,000",House
+603,Jeff Flake (R-Ariz),"-$234,998","$32,500","$299,999",Senate
+604,Jose E. Serrano (D-NY),"$15,001","$32,500","$50,000",House
+605,Ron DeSantis (R-Fla),"-$41,992","$31,503","$104,999",House
+606,Jerrold Nadler (D-NY),"$1,002","$28,001","$55,000",House
+607,Cedric Richmond (D-La),"-$47,994","$27,502","$102,998",House
+608,Joe Baca (D-Calif),"$3,004","$24,502","$46,000",House
+609,Marc Veasey (D-Texas),"-$83,984","$20,507","$124,999",House
+610,Mark Kirk (R-Ill),"$2,002","$17,501","$33,000",Senate
+611,Silvestre Reyes (D-Texas),"$2,002","$16,001","$30,000",House
+612,Jim DeMint (R-SC),"$2,002","$16,001","$30,000",Senate
+613,Jim Moran (D-Va),"$2,002","$16,001","$30,000",House
+614,Carol Shea-Porter (D-NH),"$2,002","$16,001","$30,000",House
+615,Mike Quigley (D-Ill),"-$49,998","$10,500","$70,998",House
+616,Jerry McNerney (D-Calif),"$1,003","$9,001","$17,000",House
+617,Eddie Bernice Johnson (D-Texas),"$1,002","$8,501","$16,000",House
+618,Hank Johnson (D-Ga),"$1,001","$8,000","$15,000",House
+619,Paul Tonko (D-NY),"$1,001","$8,000","$15,000",House
+620,Jaime Herrera Beutler (R-Wash),"$1,001","$8,000","$15,000",House
+621,Randy Hultgren (R-Ill),"$1,001","$8,000","$15,000",House
+622,David Rivera (R-Fla),"-$148,998","$8,000","$164,999",House
+623,Christopher S. Murphy (D-Conn),"-$79,994","$7,502","$94,998",Senate
+624,Keith Ellison (D-Minn),"-$12,994","$5,503","$24,000",House
+625,Corrine Brown (D-Fla),"-$12,998","$3,501","$20,000",House
+626,Tim Ryan (D-Ohio),$3,"$1,501","$3,000",House
+627,Duncan D. Hunter (R-Calif),$0,$0,$0,House
+628,Gwen Moore (D-Wis),$0,$0,$0,House
+629,Trey Gowdy (R-SC),"-$249,999",$0,"$249,999",House
+630,Deborah Ann Stabenow (D-Mich),$0,$0,$0,Senate
+631,Gregory W. Meeks (D-NY),$0,$0,$0,House
+632,William L. Clay Jr (D-Mo),$0,$0,$0,House
+633,Kevin Yoder (R-Kan),"-$149,992","-$2,497","$144,997",House
+634,Tim Griffin (R-Ark),"-$92,993","-$8,997","$74,998",House
+635,Eliot L. Engel (D-NY),"-$230,994","-$10,498","$209,998",House
+636,Joe Walsh (R-Ill),"-$60,995","-$12,498","$35,999",House
+637,Steve Scalise (R-La),"-$61,996","-$20,498","$20,999",House
+638,Tom McClintock (R-Calif),"-$96,995","-$30,498","$35,999",House
+639,Mario Diaz-Balart (R-Fla),"-$63,999","-$37,000","-$10,001",House
+640,Marco Rubio (R-Fla),"-$371,985","-$37,493","$296,998",Senate
+641,Rick Crawford (R-Ark),"-$349,999","-$40,001","$269,996",House
+642,Andre Carson (D-Ind),"-$95,996","-$42,998","$9,999",House
+643,David Wu (D-Ore),"-$99,999","-$45,000","$9,998",House
+644,Dan Maffei (D-NY),"-$97,998","-$49,000",-$2,House
+645,Raul Labrador (R-Idaho),"-$145,995","-$64,999","$15,997",House
+646,Kyrsten Sinema (D-Ariz),"-$100,000","-$65,001","-$30,002",House
+647,Sean P. Duffy (R-Wis),"-$144,995","-$67,498","$9,998",House
+648,Steve Israel (D-NY),"-$179,998","-$82,500","$14,997",House
+649,Louis B. Gohmert Jr (R-Texas),"-$115,000","-$87,500","-$60,001",House
+650,Debbie Wasserman Schultz (D-Fla),"-$438,986","-$118,494","$201,997",House
+651,Douglas L. Lamborn (R-Colo),"-$277,992","-$118,997","$39,998",House
+652,John Conyers Jr (D-Mich),"-$199,999","-$120,001","-$40,003",House
+653,Nydia M. Velazquez (D-NY),"-$4,248,997","-$146,999","$3,954,998",House
+654,Renee Ellmers (R-NC),"-$446,994","-$168,498","$109,998",House
+656,Collin C. Peterson (D-Minn),"-$495,995","-$242,998","$9,998",House
+657,Laura Richardson (D-Calif),"-$1,213,985","-$334,994","$543,996",House
+658,Steve Fincher (R-Tenn),"-$1,149,999","-$472,502","$204,995",House
+659,Ruben Hinojosa (D-Texas),"-$5,170,947","-$2,190,476","$789,995",House
+660,Alcee L. Hastings (D-Fla),"-$7,348,999","-$4,732,002","-$2,115,006",House
+661,David Valadao (R-Calif),"-$35,599,998","-$19,000,002","-$2,400,007",House
